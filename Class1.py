@@ -3,3 +3,7 @@ print(9<5)
 a=False
 print(a)
 print(type(a))
+name="vibu"
+c=34
+print("hi",name,c)
+print("hi"+name)
